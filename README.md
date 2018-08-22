@@ -1,2 +1,2 @@
-# machine-learning-using-python
+# Machine Learning using Python
 Machine Learning using python 
