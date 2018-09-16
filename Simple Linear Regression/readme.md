@@ -7,7 +7,7 @@
 #### matplotlib.pyplot: Provides a MATLAB-like plotting framework.
 
 ## Use
-#### Develop and train the machine learning model to 
+#### Develop and train the machine learning model to predict how much salary an employee should earn based on experience.
 
 ## Dataset
 #### The folder contains Salary_Data.csv dataset. The X column of the dataset contains the 'Years of Experience' along with corresponding 'Salary' of the employee.
